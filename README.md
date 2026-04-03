@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D79921&width=500&lines=Hey+there%2C+I'm+Raguram+👋;Backend+Developer+%7C+API+Craftsman;Building+robust+systems+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D79921&width=500&lines=Hey+there%2C+I'm+RAGURAM+👋;Backend+Developer+%7C+API+Craftsman;Building+robust+systems+one+commit+at+a+time)](https://git.io/typing-svg)
 
 ---
 
