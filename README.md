@@ -1,32 +1,49 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D79921&width=500&lines=Hey+there%2C+I'm+RAGURAM+👋;Backend+Developer+%7C+API+Craftsman;Building+robust+systems+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=D79921&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Raguram+AG+👋;Backend+Developer+%7C+Java+%7C+Spring;Building+Reliable+Systems+That+Scale;Always+Learning+Always+Shipping)](https://git.io/typing-svg)
+
+<h3 align="center">Backend-focused engineering student passionate about scalable systems, APIs, and continuous growth.</h3>
 
 ---
 
-### 🧠 About Me
+## 👨‍💻 About Me
 
-```bash
-$ whoami
-> raguram — backend dev, server whisperer, coffee enjoyer
-
-$ cat interests.txt
-> APIs • Databases • System Design • Open Source
-```
-
-- 🔧 I build **scalable backend systems** and love clean architecture
-- 🧩 I practice **DSA daily** — consistency is the real algorithm
-- 🌱 I love to **learn and explore** — always chasing the next concept
-- ⚡ Fun fact: I debug better with lo-fi music on
-- 📫 Reach me at: **github.com/raguramag7**
+- 🎓 Final-year Engineering Student  
+- 🔧 Focused on **Backend Development** and clean system design  
+- ☕ Strong interest in **Java, Spring Boot, Databases, APIs**
+- 🧠 Practicing **DSA consistently** to sharpen problem-solving
+- 🌱 Currently learning **Cloud, Security, and Production Architecture**
+- 🚀 Open to **Internships / Entry-Level Software Roles**
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=java,python,spring,c,html,css,react,linux,git,github)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,spring,c,mysql,html,css,react,linux,git,github" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## ☁️ Certifications & Credentials
+
+- 🏅 Google Cloud Skill Badge  
+  **Protect Sensitive Data with Data Loss Prevention**
+
+- 📚 Continuously learning cloud, backend engineering, and security fundamentals
+
+---
+
+## 📌 Featured Strengths
+
+- REST API Development  
+- Database Design & SQL  
+- Object-Oriented Programming  
+- Debugging & Problem Solving  
+- Data Structures & Algorithms  
+- Linux / Git Workflow
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raguramag7&show_icons=true&theme=gruvbox&hide_border=true" height="165"/>
@@ -39,22 +56,11 @@ $ cat interests.txt
 
 ---
 
-> *"Your lack of discipline is an insult to everyone who believed in you."*
+## 🎯 Current Goals
 
----
-
-### 🎯 My Coding Philosophy
-
-```
-✅ Write code that your future self won't hate
-✅ DSA every day — no excuses
-✅ Understand the "why" before the "how"
-✅ Consistency > Motivation
-✅ Build. Break. Fix. Repeat.
-```
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=raguramag7.raguramag7" alt="visitors"/>
-</p>
+```bash
+✓ Build real backend projects
+✓ Master Spring Boot ecosystem
+✓ Improve DSA speed + consistency
+✓ Learn cloud deployment workflows
+✓ Become industry-ready
